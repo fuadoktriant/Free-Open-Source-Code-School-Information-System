@@ -1,0 +1,1 @@
+SELECT * FROM guru_has_mata_pelajaran NATURAL JOIN mata_pelajaran_has_ruang_kelas WHERE idGuru=10
